@@ -30,7 +30,7 @@
   <Hotel Rating="3.8">
     <Name>Residence Inn</Name>
     <Phone>480-967-2300</Phone>
-    <Address>
+    <Address NearestAirport="Sky Harbor">
       <Number>510</Number>
       <Street>S Forest Ave</Street>
       <City>Tempe</City>
@@ -55,7 +55,7 @@
   <Hotel Rating="4.3">
     <Name>Courtyard by Marriott</Name>
     <Phone>480-966-2800</Phone>
-    <Address>
+    <Address NearestAirport="Sky Harbor">
       <Number>601</Number>
       <Street>S Ash Ave</Street>
       <City>Tempe</City>
@@ -79,7 +79,7 @@
   <Hotel Rating="3.9">
     <Name>Graduate Tempe</Name>
     <Phone>480-967-9431</Phone>
-    <Address>
+    <Address NearestAirport="Sky Harbor">
       <Number>225</Number>
       <Street>E Apache Blvd</Street>
       <City>Tempe</City>
@@ -92,7 +92,7 @@
     <Name>AC Hotel by Marriott</Name>
     <Phone>480-642-6140</Phone>
     <Phone>480-642-6141</Phone>
-    <Address>
+    <Address NearestAirport="Sky Harbor">
       <Number>100</Number>
       <Street>E Rio Salado Pkwy</Street>
       <City>Tempe</City>
@@ -104,7 +104,7 @@
   <Hotel Rating="3.7">
     <Name>Moxy Phoenix Tempe</Name>
     <Phone>480-968-3451</Phone>
-    <Address>
+    <Address NearestAirport="Sky Harbor">
       <Number>1333</Number>
       <Street>Rural Rd</Street>
       <City>Tempe</City>
