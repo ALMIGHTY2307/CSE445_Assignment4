@@ -6,7 +6,7 @@
     <Name>Westin</Name>
     <Phone>480-968-8885</Phone>
     <Phone>800-937-8461</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>11</Number>
       <Street>E 7th St</Street>
       <City>Tempe</City>
@@ -18,7 +18,7 @@
   <Hotel Rating="4.5">
     <Name>Hilton Garden Inn</Name>
     <Phone>480-965-8000</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>675</Number>
       <Street>E Apache Blvd</Street>
       <City>Tempe</City>
@@ -30,7 +30,7 @@
   <Hotel Rating="3.8">
     <Name>Residence Inn</Name>
     <Phone>480-967-2300</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>510</Number>
       <Street>S Forest Ave</Street>
       <City>Tempe</City>
@@ -43,7 +43,7 @@
     <Name>Hyatt Place</Name>
     <Phone>480-929-2800</Phone>
     <Phone>877-803-7534</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>1413</Number>
       <Street>W Rio Salado Pkwy</Street>
       <City>Tempe</City>
@@ -55,7 +55,7 @@
   <Hotel Rating="4.3">
     <Name>Courtyard by Marriott</Name>
     <Phone>480-966-2800</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>601</Number>
       <Street>S Ash Ave</Street>
       <City>Tempe</City>
@@ -67,7 +67,7 @@
   <Hotel Rating="4.1">
     <Name>Canopy by Hilton</Name>
     <Phone>602-612-2385</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>108</Number>
       <Street>E University Dr</Street>
       <City>Tempe</City>
@@ -79,7 +79,7 @@
   <Hotel Rating="3.9">
     <Name>Graduate Tempe</Name>
     <Phone>480-967-9431</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>225</Number>
       <Street>E Apache Blvd</Street>
       <City>Tempe</City>
@@ -92,7 +92,7 @@
     <Name>AC Hotel by Marriott</Name>
     <Phone>480-642-6140</Phone>
     <Phone>480-642-6141</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>100</Number>
       <Street>E Rio Salado Pkwy</Street>
       <City>Tempe</City>
@@ -104,7 +104,7 @@
   <Hotel Rating="3.7">
     <Name>Moxy Phoenix Tempe</Name>
     <Phone>480-968-3451</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>1333</Number>
       <Street>Rural Rd</Street>
       <City>Tempe</City>
@@ -117,7 +117,7 @@
     <Name>Tempe Mission Palms Hotel</Name>
     <Phone>480-894-1400</Phone>
     <Phone>800-547-8705</Phone>
-    <Address NearestAirport="Sky Harbor">
+    <Address NearstAirport="Sky Harbor">
       <Number>60</Number>
       <Street>E 5th St</Street>
       <City>Tempe</City>
